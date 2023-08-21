@@ -9,3 +9,6 @@ example transaction mainnet [link](https://etherscan.io/tx/0xdda320407170203c382
 Remix - local blockchain simulator [link](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.18+commit.87f61d96.js)
 
 Proof of Stake blockchain implementation in python for education purposes [link](https://github.com/Jayakumar2812/Proof-Of-Stake-Prototype)
+
+
+brownie_template [link](https://github.com/Jayakumar2812/brownie_template)
