@@ -16,3 +16,5 @@ brownie_template [Brownie_Token](https://github.com/Jayakumar2812/brownie_templa
 Solidity Course in blogs/gaming type [cryptozombies](https://cryptozombies.io/en/solidity)
 
 Soldity primer video in less than 2 hours [Dapp_uinversity](https://www.youtube.com/watch?v=EhPeHeoKF88)
+
+Smart Contract vulnerabilities github [link](https://github.com/kadenzipfel/smart-contract-vulnerabilities/blob/master/vulnerabilities/authorization-txorigin.md)
