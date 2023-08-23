@@ -10,6 +10,12 @@ Remix - local blockchain simulator [link](https://remix.ethereum.org/#lang=en&op
 
 Proof of Stake blockchain implementation in python for education purposes [link](https://github.com/Jayakumar2812/Proof-Of-Stake-Prototype)
 
+
+commmands for installing pipx ``` python3 -m pip install --user pipx```
+check whether pipx is installed ``` python3 -m pipx ensurepath```
+Install brownie ```pipx install eth-brownie ```
+
+
 brownie_template [Brownie_Token](https://github.com/Jayakumar2812/brownie_template)
 
 
@@ -23,3 +29,6 @@ Smart Contract vulnerabilities github [link](https://github.com/kadenzipfel/smar
 Proof Of Stake blockchain in python udemy tutorial [link](https://www.udemy.com/course/build-your-own-proof-of-stake-blockchain/) 
 
 evm [link](https://www.evm.codes/playground?unit=Wei&codeType=Mnemonic&code=%27y1z0z0twwy2v32+0xsssszt%27%7Euuuuzv1+1y%2F%2F+Example+w%5CnvwPUSHuFFtwADDs%7E%7E%01stuvwyz%7E_&fork=shanghai)
+
+
+
