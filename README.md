@@ -10,6 +10,9 @@ Remix - local blockchain simulator [link](https://remix.ethereum.org/#lang=en&op
 
 Proof of Stake blockchain implementation in python for education purposes [link](https://github.com/Jayakumar2812/Proof-Of-Stake-Prototype)
 
+Try installing ```pip install eth-brownie ``` or ```pip3 install eth-brownie ```
+
+
 
 commmands for installing pipx ``` python3 -m pip install --user pipx```
 
