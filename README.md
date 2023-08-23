@@ -12,7 +12,7 @@ Proof of Stake blockchain implementation in python for education purposes [link]
 
 Try installing ```pip install eth-brownie ``` or ```pip3 install eth-brownie ```
 
-
+if that doesn't work try the following steps
 
 commmands for installing pipx ``` python3 -m pip install --user pipx```
 
