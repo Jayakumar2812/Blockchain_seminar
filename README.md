@@ -18,3 +18,6 @@ Solidity Course in blogs/gaming type [cryptozombies](https://cryptozombies.io/en
 Soldity primer video in less than 2 hours [Dapp_uinversity](https://www.youtube.com/watch?v=EhPeHeoKF88)
 
 Smart Contract vulnerabilities github [link](https://github.com/kadenzipfel/smart-contract-vulnerabilities/blob/master/vulnerabilities/authorization-txorigin.md)
+
+
+Proof Of Stake blockchain in python udemy tutorial [link](https://www.udemy.com/course/build-your-own-proof-of-stake-blockchain/)
